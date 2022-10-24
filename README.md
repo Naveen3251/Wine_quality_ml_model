@@ -1,5 +1,5 @@
 # Wine_quality_ml_model
-Project:Detecting quality of white wine
+Project:Detecting quality of white wine<br/>
 #Requirements
 Jupyter notebook
 #Libraries used:
